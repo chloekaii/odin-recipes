@@ -1,0 +1,1 @@
+This project is a simple website that will help me familiarize myself with HTML.
